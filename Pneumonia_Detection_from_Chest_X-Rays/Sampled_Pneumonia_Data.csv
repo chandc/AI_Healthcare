@@ -1,0 +1,549 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y],Pneumonia,path
+00016991_002.png,Pneumonia,2,16991,31,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016991_002.png
+00014177_009.png,Consolidation|Pneumonia,9,14177,39,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014177_009.png
+00015809_023.png,Nodule|Pneumonia,23,15809,38,F,AP,3004,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015809_023.png
+00012094_009.png,Pneumonia,9,12094,63,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012094_009.png
+00023211_007.png,No Finding,7,23211,30,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00023211_007.png
+00013670_048.png,Consolidation|Pneumonia,48,13670,56,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013670_048.png
+00014405_001.png,Pneumonia,1,14405,33,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014405_001.png
+00003528_006.png,No Finding,6,3528,44,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003528_006.png
+00004534_008.png,Cardiomegaly|Pneumonia,8,4534,30,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00004534_008.png
+00009323_005.png,Pneumonia,5,9323,57,F,PA,2936,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_005/images/00009323_005.png
+00011709_000.png,Mass|Nodule|Pneumonia,0,11709,62,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00011709_000.png
+00003064_042.png,No Finding,42,3064,36,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003064_042.png
+00026085_000.png,Pneumonia,0,26085,48,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026085_000.png
+00014201_008.png,Pneumonia,8,14201,31,F,PA,2578,2845,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014201_008.png
+00007862_010.png,No Finding,10,7862,61,F,PA,2474,2505,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_004/images/00007862_010.png
+00016972_028.png,Pneumonia,28,16972,43,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016972_028.png
+00014112_014.png,No Finding,14,14112,39,F,PA,2514,2481,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014112_014.png
+00005791_009.png,No Finding,9,5791,57,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005791_009.png
+00005456_009.png,No Finding,9,5456,63,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005456_009.png
+00015916_005.png,No Finding,5,15916,33,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015916_005.png
+00001906_006.png,No Finding,6,1906,32,M,PA,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00001906_006.png
+00005536_006.png,No Finding,6,5536,33,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005536_006.png
+00018187_033.png,No Finding,33,18187,32,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00018187_033.png
+00021972_022.png,No Finding,22,21972,49,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021972_022.png
+00013386_008.png,No Finding,8,13386,30,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00013386_008.png
+00003292_010.png,No Finding,10,3292,61,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003292_010.png
+00004006_075.png,No Finding,75,4006,38,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004006_075.png
+00015809_015.png,Pneumonia,15,15809,38,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015809_015.png
+00020827_006.png,No Finding,6,20827,53,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_009/images/00020827_006.png
+00011592_001.png,Pleural_Thickening|Pneumonia,1,11592,58,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00011592_001.png
+00013447_012.png,Pneumonia,12,13447,45,F,PA,2906,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013447_012.png
+00017652_000.png,Pneumonia,0,17652,50,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017652_000.png
+00023178_002.png,Consolidation|Pneumonia,2,23178,58,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00023178_002.png
+00018610_040.png,No Finding,40,18610,63,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_009/images/00018610_040.png
+00016896_012.png,Pneumonia,12,16896,44,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016896_012.png
+00019169_001.png,Pneumonia,1,19169,56,F,PA,2650,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019169_001.png
+00029863_014.png,No Finding,14,29863,58,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_012/images/00029863_014.png
+00016291_054.png,Cardiomegaly|Consolidation|Pneumonia,54,16291,54,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016291_054.png
+00010905_008.png,No Finding,8,10905,51,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010905_008.png
+00008841_050.png,No Finding,50,8841,51,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008841_050.png
+00001301_028.png,No Finding,28,1301,57,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_001/images/00001301_028.png
+00027427_010.png,No Finding,10,27427,56,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00027427_010.png
+00021610_036.png,No Finding,36,21610,46,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021610_036.png
+00016362_005.png,No Finding,5,16362,33,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016362_005.png
+00014414_007.png,Pneumonia,7,14414,52,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014414_007.png
+00013272_005.png,Pneumonia,5,13272,51,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013272_005.png
+00013594_040.png,No Finding,40,13594,47,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00013594_040.png
+00010758_010.png,No Finding,10,10758,55,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010758_010.png
+00026349_006.png,No Finding,6,26349,46,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026349_006.png
+00011587_012.png,No Finding,12,11587,41,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00011587_012.png
+00011764_007.png,No Finding,7,11764,59,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00011764_007.png
+00002355_005.png,No Finding,5,2355,60,F,PA,2550,2769,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002355_005.png
+00003789_000.png,Nodule|Pneumonia,0,3789,41,M,AP,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003789_000.png
+00003064_026.png,Pneumonia,26,3064,35,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003064_026.png
+00014558_009.png,No Finding,9,14558,35,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014558_009.png
+00021895_001.png,Pneumonia,1,21895,32,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021895_001.png
+00001906_004.png,Pneumonia,4,1906,44,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001906_004.png
+00002451_007.png,Pneumonia,7,2451,49,F,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00002451_007.png
+00015160_025.png,No Finding,25,15160,39,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015160_025.png
+00001956_006.png,No Finding,6,1956,32,F,PA,2676,2901,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00001956_006.png
+00010352_018.png,No Finding,18,10352,31,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010352_018.png
+00009507_020.png,No Finding,20,9507,60,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009507_020.png
+00012834_053.png,No Finding,53,12834,33,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012834_053.png
+00009863_059.png,Pneumonia,59,9863,40,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00009863_059.png
+00002256_017.png,No Finding,17,2256,42,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002256_017.png
+00017659_000.png,Pneumonia,0,17659,54,F,PA,2614,2725,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017659_000.png
+00005814_006.png,No Finding,6,5814,60,F,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005814_006.png
+00027784_007.png,Pneumonia,7,27784,39,M,PA,2021,2021,0.19431400000000001,0.19431400000000001,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027784_007.png
+00014436_008.png,Pneumonia,8,14436,63,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014436_008.png
+00021818_026.png,Consolidation|Pneumonia,26,21818,37,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021818_026.png
+00028357_034.png,No Finding,34,28357,52,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_012/images/00028357_034.png
+00004832_007.png,No Finding,7,4832,37,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004832_007.png
+00012414_019.png,No Finding,19,12414,48,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012414_019.png
+00011956_003.png,Consolidation|Pneumonia,3,11956,51,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00011956_003.png
+00003092_000.png,Pneumonia,0,3092,53,M,PA,2758,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003092_000.png
+00025383_002.png,Pneumonia,2,25383,45,M,PA,3056,2516,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00025383_002.png
+00026908_002.png,Pneumonia,2,26908,63,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026908_002.png
+00015442_000.png,Pneumonia,0,15442,63,F,PA,2766,2573,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015442_000.png
+00008067_013.png,No Finding,13,8067,44,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008067_013.png
+00025806_005.png,Pneumonia,5,25806,50,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00025806_005.png
+00014379_008.png,No Finding,8,14379,63,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014379_008.png
+00022030_006.png,No Finding,6,22030,50,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00022030_006.png
+00026302_002.png,Nodule|Pneumonia,2,26302,36,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026302_002.png
+00011122_016.png,No Finding,16,11122,45,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00011122_016.png
+00019981_006.png,No Finding,6,19981,41,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_009/images/00019981_006.png
+00002243_009.png,No Finding,9,2243,39,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002243_009.png
+00001582_019.png,Pneumonia,19,1582,33,F,PA,2726,2621,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001582_019.png
+00001836_010.png,Consolidation|Fibrosis|Nodule|Pneumonia,10,1836,49,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001836_010.png
+00010544_000.png,Pneumonia,0,10544,33,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010544_000.png
+00006674_009.png,No Finding,9,6674,31,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00006674_009.png
+00011147_000.png,Pneumonia,0,11147,37,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00011147_000.png
+00016841_011.png,No Finding,11,16841,52,M,PA,3056,2508,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016841_011.png
+00016508_057.png,Consolidation|Emphysema|Pneumonia,57,16508,52,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016508_057.png
+00009691_016.png,No Finding,16,9691,53,F,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009691_016.png
+00022427_006.png,No Finding,6,22427,48,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00022427_006.png
+00008727_009.png,Pneumonia,9,8727,54,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00008727_009.png
+00003950_002.png,Pneumonia,2,3950,40,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00003950_002.png
+00015983_000.png,Nodule|Pneumonia,0,15983,44,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015983_000.png
+00015628_018.png,Pneumonia,18,15628,48,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015628_018.png
+00028317_014.png,No Finding,14,28317,54,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_012/images/00028317_014.png
+00011925_033.png,No Finding,33,11925,54,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00011925_033.png
+00025192_006.png,No Finding,6,25192,44,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_011/images/00025192_006.png
+00003426_017.png,Pneumonia,17,3426,60,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003426_017.png
+00029481_004.png,Pneumonia,4,29481,51,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_012/images/00029481_004.png
+00008745_016.png,No Finding,16,8745,46,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008745_016.png
+00025096_007.png,No Finding,7,25096,35,F,PA,1900,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_011/images/00025096_007.png
+00010832_008.png,No Finding,8,10832,61,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010832_008.png
+00016983_000.png,Mass|Nodule|Pneumonia,0,16983,36,F,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016983_000.png
+00004006_067.png,No Finding,67,4006,37,F,PA,2650,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004006_067.png
+00013750_025.png,No Finding,25,13750,58,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00013750_025.png
+00009361_007.png,No Finding,7,9361,53,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009361_007.png
+00000181_064.png,No Finding,64,181,55,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_001/images/00000181_064.png
+00009378_007.png,No Finding,7,9378,60,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009378_007.png
+00003510_009.png,Pneumonia,9,3510,38,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003510_009.png
+00027311_007.png,No Finding,7,27311,42,F,PA,2544,3056,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00027311_007.png
+00003446_008.png,No Finding,8,3446,49,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003446_008.png
+00005681_018.png,Emphysema|Pneumonia,18,5681,46,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005681_018.png
+00019194_007.png,No Finding,7,19194,32,F,PA,2458,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_009/images/00019194_007.png
+00014018_022.png,No Finding,22,14018,47,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014018_022.png
+00001317_002.png,Pneumonia,2,1317,48,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_001/images/00001317_002.png
+00021369_002.png,Pneumonia,2,21369,38,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021369_002.png
+00006981_012.png,No Finding,12,6981,61,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00006981_012.png
+00026560_010.png,Cardiomegaly|Consolidation|Pneumonia,10,26560,46,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026560_010.png
+00025607_001.png,Pneumonia,1,25607,56,F,AP,2544,3056,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00025607_001.png
+00002572_006.png,Pneumonia,6,2572,55,F,PA,2502,2649,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00002572_006.png
+00011033_005.png,No Finding,5,11033,43,M,PA,2048,2500,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00011033_005.png
+00000766_005.png,Pleural_Thickening|Pneumonia,5,766,32,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000766_005.png
+00017236_034.png,Pneumonia,34,17236,46,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017236_034.png
+00016184_037.png,Pneumonia,37,16184,43,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016184_037.png
+00018525_000.png,Pneumonia,0,18525,33,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_009/images/00018525_000.png
+00010509_003.png,Pneumonia,3,10509,59,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010509_003.png
+00017158_017.png,No Finding,17,17158,59,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017158_017.png
+00015809_014.png,Pneumonia,14,15809,38,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015809_014.png
+00001101_011.png,No Finding,11,1101,42,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_001/images/00001101_011.png
+00016213_007.png,Pneumonia,7,16213,32,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016213_007.png
+00022416_077.png,No Finding,77,22416,52,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00022416_077.png
+00000193_019.png,Pneumonia,19,193,55,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000193_019.png
+00019694_005.png,Cardiomegaly|Pneumonia,5,19694,57,F,PA,2544,3056,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019694_005.png
+00005089_028.png,No Finding,28,5089,37,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005089_028.png
+00010544_007.png,Pneumonia,7,10544,33,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010544_007.png
+00016568_002.png,Mass|Nodule|Pneumonia,2,16568,37,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016568_002.png
+00016490_006.png,No Finding,6,16490,50,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016490_006.png
+00004832_025.png,Consolidation|Pneumonia|Pneumothorax,25,4832,33,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00004832_025.png
+00003804_013.png,No Finding,13,3804,62,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003804_013.png
+00015806_003.png,Pneumonia,3,15806,37,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015806_003.png
+00026081_005.png,No Finding,5,26081,62,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026081_005.png
+00017753_027.png,Consolidation|Pneumonia,27,17753,63,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017753_027.png
+00020450_022.png,No Finding,22,20450,59,M,PA,3056,2508,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_009/images/00020450_022.png
+00002509_008.png,No Finding,8,2509,40,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002509_008.png
+00025290_012.png,No Finding,12,25290,45,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00025290_012.png
+00020274_020.png,No Finding,20,20274,52,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_009/images/00020274_020.png
+00011020_000.png,Pleural_Thickening|Pneumonia,0,11020,63,F,PA,2346,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_005/images/00011020_000.png
+00003392_005.png,No Finding,5,3392,62,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003392_005.png
+00022208_006.png,No Finding,6,22208,50,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00022208_006.png
+00016205_000.png,Pneumonia,0,16205,58,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016205_000.png
+00027775_004.png,Pneumonia,4,27775,59,F,PA,2020,2015,0.19431099999999998,0.19431099999999998,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027775_004.png
+00002510_010.png,No Finding,10,2510,48,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002510_010.png
+00014918_014.png,No Finding,14,14918,46,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014918_014.png
+00003973_007.png,Pneumonia,7,3973,45,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00003973_007.png
+00002111_015.png,No Finding,15,2111,58,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002111_015.png
+00026825_008.png,Pneumonia,8,26825,35,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026825_008.png
+00019770_000.png,Pneumonia,0,19770,55,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019770_000.png
+00014145_007.png,No Finding,7,14145,55,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014145_007.png
+00030637_016.png,Consolidation|Pneumonia,16,30637,48,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_012/images/00030637_016.png
+00017236_075.png,Pneumonia,75,17236,46,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017236_075.png
+00007109_027.png,Fibrosis|Pneumonia,27,7109,39,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_004/images/00007109_027.png
+00005567_025.png,Pneumonia,25,5567,53,M,PA,2734,2945,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005567_025.png
+00010491_007.png,No Finding,7,10491,56,F,PA,2514,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010491_007.png
+00025583_005.png,Pneumonia,5,25583,48,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00025583_005.png
+00011167_012.png,No Finding,12,11167,54,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00011167_012.png
+00016825_000.png,Pneumonia,0,16825,52,F,PA,2360,2271,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016825_000.png
+00014879_009.png,No Finding,9,14879,61,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014879_009.png
+00010481_031.png,No Finding,31,10481,44,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010481_031.png
+00006289_005.png,Pneumonia,5,6289,59,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00006289_005.png
+00015338_015.png,Pneumonia,15,15338,44,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015338_015.png
+00005954_005.png,No Finding,5,5954,32,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005954_005.png
+00026301_005.png,No Finding,5,26301,49,F,PA,2774,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026301_005.png
+00025603_005.png,No Finding,5,25603,45,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_011/images/00025603_005.png
+00016715_005.png,No Finding,5,16715,61,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016715_005.png
+00014956_039.png,No Finding,39,14956,45,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014956_039.png
+00014616_011.png,Pneumonia,11,14616,49,M,AP,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014616_011.png
+00026867_005.png,No Finding,5,26867,32,F,AP,2645,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026867_005.png
+00012832_008.png,No Finding,8,12832,49,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012832_008.png
+00020945_032.png,No Finding,32,20945,34,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_009/images/00020945_032.png
+00007193_006.png,No Finding,6,7193,47,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00007193_006.png
+00012141_024.png,No Finding,24,12141,31,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012141_024.png
+00016587_031.png,No Finding,31,16587,48,F,PA,2674,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016587_031.png
+00018362_008.png,Fibrosis|Pneumonia,8,18362,47,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00018362_008.png
+00012777_005.png,Pneumonia,5,12777,32,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012777_005.png
+00006260_006.png,No Finding,6,6260,60,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_003/images/00006260_006.png
+00009237_033.png,No Finding,33,9237,54,F,PA,2642,2484,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009237_033.png
+00001749_002.png,Pneumonia,2,1749,49,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001749_002.png
+00008397_013.png,No Finding,13,8397,53,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008397_013.png
+00020671_013.png,No Finding,13,20671,39,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_009/images/00020671_013.png
+00000710_003.png,Fibrosis|Pneumonia,3,710,57,F,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000710_003.png
+00001582_021.png,Pneumonia,21,1582,34,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001582_021.png
+00006490_006.png,Pneumonia,6,6490,43,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00006490_006.png
+00002288_004.png,Pneumonia,4,2288,61,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00002288_004.png
+00012158_014.png,No Finding,14,12158,44,F,PA,2350,2585,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012158_014.png
+00012297_004.png,Pneumonia,4,12297,47,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012297_004.png
+00026236_020.png,No Finding,20,26236,37,F,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026236_020.png
+00021494_006.png,Nodule|Pneumonia,6,21494,37,F,PA,2454,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021494_006.png
+00002704_024.png,No Finding,24,2704,39,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002704_024.png
+00017005_000.png,Pneumonia,0,17005,37,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017005_000.png
+00020978_005.png,No Finding,5,20978,54,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_010/images/00020978_005.png
+00010350_027.png,No Finding,27,10350,53,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010350_027.png
+00002403_007.png,No Finding,7,2403,55,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002403_007.png
+00003841_008.png,No Finding,8,3841,33,M,PA,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003841_008.png
+00010491_006.png,No Finding,6,10491,55,F,PA,2986,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010491_006.png
+00027266_001.png,Pneumonia,1,27266,63,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027266_001.png
+00013611_001.png,Pneumonia,1,13611,33,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013611_001.png
+00001018_005.png,Pneumonia,5,1018,59,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_001/images/00001018_005.png
+00013962_007.png,No Finding,7,13962,54,M,PA,2642,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00013962_007.png
+00003459_025.png,No Finding,25,3459,52,F,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003459_025.png
+00019894_038.png,Pneumonia,38,19894,61,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019894_038.png
+00021047_021.png,No Finding,21,21047,52,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021047_021.png
+00001355_011.png,No Finding,11,1355,37,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00001355_011.png
+00021930_012.png,Consolidation|Pneumonia,12,21930,52,F,AP,3056,2512,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021930_012.png
+00021118_005.png,No Finding,5,21118,46,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021118_005.png
+00011850_016.png,No Finding,16,11850,40,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00011850_016.png
+00005567_009.png,No Finding,9,5567,57,M,PA,1980,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005567_009.png
+00011481_024.png,No Finding,24,11481,32,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00011481_024.png
+00010808_012.png,No Finding,12,10808,36,F,PA,2048,2024,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010808_012.png
+00017158_018.png,No Finding,18,17158,59,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017158_018.png
+00003393_030.png,No Finding,30,3393,58,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003393_030.png
+00015605_051.png,Pneumonia,51,15605,32,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015605_051.png
+00018091_018.png,No Finding,18,18091,41,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00018091_018.png
+00001749_003.png,Pneumonia,3,1749,49,M,PA,2970,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001749_003.png
+00018819_005.png,No Finding,5,18819,55,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_009/images/00018819_005.png
+00005869_001.png,Pneumothorax|Pneumonia,1,5869,36,F,PA,2048,2500,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005869_001.png
+00004578_005.png,No Finding,5,4578,55,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004578_005.png
+00016490_010.png,No Finding,10,16490,50,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016490_010.png
+00022201_000.png,Pneumonia,0,22201,40,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00022201_000.png
+00005892_017.png,No Finding,17,5892,56,F,PA,2686,2577,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005892_017.png
+00007699_003.png,Pneumonia,3,7699,39,M,PA,2846,2981,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_004/images/00007699_003.png
+00019271_020.png,No Finding,20,19271,55,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_009/images/00019271_020.png
+00004344_002.png,Pneumonia,2,4344,47,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00004344_002.png
+00007534_026.png,No Finding,26,7534,54,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00007534_026.png
+00013376_000.png,Nodule|Pneumonia,0,13376,36,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013376_000.png
+00008230_013.png,Pleural_Thickening|Pneumonia,13,8230,60,F,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00008230_013.png
+00004755_018.png,No Finding,18,4755,40,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004755_018.png
+00021584_001.png,Pneumonia,1,21584,46,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021584_001.png
+00027648_005.png,Pneumonia,5,27648,50,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027648_005.png
+00030323_015.png,Consolidation|Pneumonia|Mass,15,30323,31,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_012/images/00030323_015.png
+00013946_008.png,No Finding,8,13946,36,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_007/images/00013946_008.png
+00002351_007.png,No Finding,7,2351,50,F,PA,2810,2785,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002351_007.png
+00026886_009.png,No Finding,9,26886,48,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026886_009.png
+00008741_009.png,No Finding,9,8741,38,F,PA,2318,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008741_009.png
+00015977_002.png,Pneumonia,2,15977,45,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015977_002.png
+00005032_000.png,Pneumonia,0,5032,53,M,PA,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005032_000.png
+00006985_002.png,Pneumonia,2,6985,50,M,PA,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_004/images/00006985_002.png
+00011391_006.png,Pneumonia,6,11391,38,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00011391_006.png
+00020845_002.png,Pneumonia,2,20845,51,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_009/images/00020845_002.png
+00009229_016.png,No Finding,16,9229,37,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00009229_016.png
+00027320_010.png,Pneumonia,10,27320,52,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027320_010.png
+00028523_033.png,No Finding,33,28523,59,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_012/images/00028523_033.png
+00029889_000.png,Pneumonia,0,29889,44,F,PA,2021,2021,0.19431099999999998,0.19431099999999998,1,/home/danielchan/Chest_Xray_Data/images_012/images/00029889_000.png
+00013999_007.png,No Finding,7,13999,55,M,PA,2550,2951,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00013999_007.png
+00000893_000.png,Pneumonia,0,893,43,F,PA,2544,3056,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000893_000.png
+00028454_015.png,No Finding,15,28454,58,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_012/images/00028454_015.png
+00030801_001.png,Mass|Pneumonia,1,30801,39,M,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_012/images/00030801_001.png
+00014674_013.png,No Finding,13,14674,46,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014674_013.png
+00002437_051.png,No Finding,51,2437,59,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002437_051.png
+00013376_001.png,Nodule|Pneumonia,1,13376,36,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013376_001.png
+00003610_019.png,No Finding,19,3610,32,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003610_019.png
+00020871_000.png,Consolidation|Pneumonia,0,20871,63,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_009/images/00020871_000.png
+00009608_037.png,Mass|Pneumonia,37,9608,30,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00009608_037.png
+00021289_000.png,Consolidation|Mass|Nodule|Pneumonia,0,21289,40,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021289_000.png
+00014294_011.png,Pneumonia,11,14294,37,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014294_011.png
+00020505_022.png,Pneumonia,22,20505,51,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00020505_022.png
+00021860_003.png,Pneumonia,3,21860,46,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021860_003.png
+00017017_009.png,No Finding,9,17017,62,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017017_009.png
+00021128_003.png,Consolidation|Pneumonia,3,21128,49,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021128_003.png
+00009229_022.png,No Finding,22,9229,38,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00009229_022.png
+00026072_003.png,Emphysema|Pneumonia,3,26072,35,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026072_003.png
+00021835_005.png,No Finding,5,21835,39,F,PA,2522,2457,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021835_005.png
+00021216_005.png,Consolidation|Pneumonia,5,21216,34,F,PA,2830,2681,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021216_005.png
+00016443_008.png,No Finding,8,16443,46,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016443_008.png
+00022975_005.png,No Finding,5,22975,55,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00022975_005.png
+00002863_005.png,No Finding,5,2863,56,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002863_005.png
+00006043_007.png,No Finding,7,6043,49,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00006043_007.png
+00021341_015.png,No Finding,15,21341,43,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021341_015.png
+00005353_000.png,Consolidation|Pneumonia,0,5353,31,M,AP,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005353_000.png
+00018187_048.png,No Finding,48,18187,32,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00018187_048.png
+00001736_022.png,No Finding,22,1736,32,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00001736_022.png
+00021458_000.png,Cardiomegaly|Nodule|Pneumonia,0,21458,60,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021458_000.png
+00025421_001.png,Pneumonia,1,25421,62,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00025421_001.png
+00019750_031.png,Pneumonia,31,19750,57,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019750_031.png
+00013904_011.png,No Finding,11,13904,43,M,PA,2814,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00013904_011.png
+00011831_008.png,Emphysema|Pneumothorax|Pneumonia,8,11831,56,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00011831_008.png
+00014492_005.png,Pneumonia,5,14492,46,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014492_005.png
+00021818_010.png,No Finding,10,21818,42,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021818_010.png
+00000013_038.png,No Finding,38,13,56,M,PA,2822,2861,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_001/images/00000013_038.png
+00013992_005.png,Pneumonia,5,13992,60,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00013992_005.png
+00003098_009.png,No Finding,9,3098,36,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003098_009.png
+00008745_034.png,Pneumonia,34,8745,46,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00008745_034.png
+00014647_009.png,Pneumonia,9,14647,41,M,PA,2674,2812,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014647_009.png
+00005768_008.png,No Finding,8,5768,38,M,PA,3056,2528,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005768_008.png
+00000583_045.png,Pneumonia,45,583,40,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000583_045.png
+00001529_002.png,Pneumonia,2,1529,56,F,PA,2714,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001529_002.png
+00012761_007.png,Pneumonia,7,12761,54,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012761_007.png
+00019576_015.png,No Finding,15,19576,49,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_009/images/00019576_015.png
+00019021_001.png,Pneumonia,1,19021,44,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019021_001.png
+00025776_000.png,Pneumonia,0,25776,37,F,PA,2786,2700,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00025776_000.png
+00007534_027.png,No Finding,27,7534,54,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00007534_027.png
+00021618_010.png,No Finding,10,21618,37,M,PA,2662,2953,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021618_010.png
+00012636_008.png,No Finding,8,12636,35,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012636_008.png
+00006580_000.png,Cardiomegaly|Pneumonia,0,6580,47,F,PA,2048,2500,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_003/images/00006580_000.png
+00004074_000.png,Mass|Nodule|Pneumonia,0,4074,47,M,PA,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_003/images/00004074_000.png
+00020286_038.png,No Finding,38,20286,61,F,AP,3056,2380,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_009/images/00020286_038.png
+00023073_005.png,No Finding,5,23073,49,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00023073_005.png
+00015442_026.png,No Finding,26,15442,61,F,PA,2536,3048,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015442_026.png
+00003510_010.png,Pneumonia,10,3510,38,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003510_010.png
+00016967_001.png,Pleural_Thickening|Pneumonia,1,16967,63,F,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016967_001.png
+00001913_001.png,Pleural_Thickening|Pneumonia,1,1913,61,M,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001913_001.png
+00001836_110.png,Mass|Pneumonia,110,1836,50,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001836_110.png
+00027508_001.png,Pneumonia,1,27508,32,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027508_001.png
+00020978_009.png,No Finding,9,20978,53,M,AP,3044,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00020978_009.png
+00007046_005.png,No Finding,5,7046,43,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00007046_005.png
+00017611_002.png,Nodule|Pneumonia|Mass,2,17611,60,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017611_002.png
+00011514_015.png,Pneumonia,15,11514,46,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00011514_015.png
+00017835_005.png,No Finding,5,17835,47,M,PA,2974,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017835_005.png
+00012615_006.png,No Finding,6,12615,57,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012615_006.png
+00025383_001.png,Pneumonia,1,25383,45,M,PA,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00025383_001.png
+00004858_059.png,No Finding,59,4858,45,F,PA,2946,2903,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004858_059.png
+00009081_000.png,Pneumonia,0,9081,52,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00009081_000.png
+00014427_013.png,No Finding,13,14427,49,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014427_013.png
+00000963_007.png,Pneumonia,7,963,36,M,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000963_007.png
+00009323_006.png,No Finding,6,9323,57,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009323_006.png
+00010375_000.png,Pneumonia,0,10375,39,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010375_000.png
+00022436_000.png,Pneumonia,0,22436,53,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00022436_000.png
+00003528_043.png,Pneumonia,43,3528,46,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003528_043.png
+00012576_008.png,No Finding,8,12576,59,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012576_008.png
+00017605_011.png,No Finding,11,17605,36,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017605_011.png
+00017158_024.png,No Finding,24,17158,58,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017158_024.png
+00002094_006.png,Pleural_Thickening|Pneumonia,6,2094,54,M,PA,2856,2638,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00002094_006.png
+00021772_011.png,Nodule|Pneumonia,11,21772,62,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021772_011.png
+00020171_000.png,Pneumonia,0,20171,50,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00020171_000.png
+00006991_010.png,Consolidation|Pneumonia,10,6991,52,M,PA,2986,2905,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_004/images/00006991_010.png
+00013592_011.png,No Finding,11,13592,60,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00013592_011.png
+00013659_019.png,Consolidation|Mass|Pneumonia|Pneumothorax,19,13659,62,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013659_019.png
+00010375_001.png,Pneumonia,1,10375,39,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010375_001.png
+00026562_023.png,No Finding,23,26562,49,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026562_023.png
+00000491_005.png,No Finding,5,491,37,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_001/images/00000491_005.png
+00010007_020.png,No Finding,20,10007,58,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010007_020.png
+00027479_019.png,Pleural_Thickening|Pneumonia,19,27479,51,M,PA,2992,2861,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027479_019.png
+00005778_001.png,Pneumonia,1,5778,59,M,PA,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005778_001.png
+00007033_005.png,No Finding,5,7033,61,F,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_004/images/00007033_005.png
+00014398_041.png,No Finding,41,14398,57,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014398_041.png
+00011683_056.png,No Finding,56,11683,60,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00011683_056.png
+00008397_016.png,Pneumonia,16,8397,54,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00008397_016.png
+00011034_025.png,No Finding,25,11034,54,F,PA,2486,2453,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00011034_025.png
+00012829_007.png,No Finding,7,12829,52,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012829_007.png
+00026753_004.png,Pneumonia,4,26753,49,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026753_004.png
+00019823_013.png,No Finding,13,19823,30,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_009/images/00019823_013.png
+00005892_001.png,Pneumonia,1,5892,61,F,PA,2626,2757,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005892_001.png
+00014145_021.png,No Finding,21,14145,55,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014145_021.png
+00006492_005.png,No Finding,5,6492,55,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00006492_005.png
+00015442_001.png,Pneumonia,1,15442,63,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015442_001.png
+00017137_006.png,No Finding,6,17137,48,F,PA,2570,2957,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017137_006.png
+00014934_005.png,No Finding,5,14934,56,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014934_005.png
+00015826_036.png,Pneumonia,36,15826,52,M,PA,3036,2533,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015826_036.png
+00019275_002.png,Pneumonia,2,19275,55,F,PA,2010,2021,0.193754,0.193754,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019275_002.png
+00012832_005.png,No Finding,5,12832,50,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012832_005.png
+00002061_000.png,Nodule|Pleural_Thickening|Pneumonia,0,2061,57,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,1,/home/danielchan/Chest_Xray_Data/images_002/images/00002061_000.png
+00002547_010.png,No Finding,10,2547,55,F,PA,2990,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002547_010.png
+00004751_005.png,No Finding,5,4751,56,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004751_005.png
+00009048_002.png,Pneumonia,2,9048,55,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00009048_002.png
+00017423_005.png,No Finding,5,17423,57,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017423_005.png
+00018843_000.png,Pneumonia,0,18843,50,M,PA,2990,2957,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_009/images/00018843_000.png
+00004342_057.png,No Finding,57,4342,48,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004342_057.png
+00011188_002.png,Pneumonia,2,11188,53,F,PA,2562,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_005/images/00011188_002.png
+00017544_008.png,No Finding,8,17544,47,M,PA,2990,2697,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00017544_008.png
+00005791_014.png,No Finding,14,5791,57,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005791_014.png
+00001075_009.png,No Finding,9,1075,59,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_001/images/00001075_009.png
+00010828_021.png,No Finding,21,10828,45,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010828_021.png
+00014429_018.png,No Finding,18,14429,62,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014429_018.png
+00016362_000.png,Pneumonia,0,16362,32,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016362_000.png
+00000467_009.png,No Finding,9,467,52,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_001/images/00000467_009.png
+00002633_010.png,No Finding,10,2633,45,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002633_010.png
+00016807_022.png,No Finding,22,16807,59,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016807_022.png
+00003989_005.png,No Finding,5,3989,53,F,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_003/images/00003989_005.png
+00006808_013.png,No Finding,13,6808,38,F,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_004/images/00006808_013.png
+00021377_011.png,No Finding,11,21377,54,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021377_011.png
+00000459_038.png,No Finding,38,459,54,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_001/images/00000459_038.png
+00006996_016.png,No Finding,16,6996,46,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_004/images/00006996_016.png
+00010552_011.png,No Finding,11,10552,42,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010552_011.png
+00026883_001.png,Pneumonia,1,26883,55,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026883_001.png
+00010399_001.png,Cardiomegaly|Consolidation|Pneumonia,1,10399,56,F,PA,2666,2721,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010399_001.png
+00012094_033.png,Pneumonia|Pneumothorax,33,12094,63,F,PA,2754,2741,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012094_033.png
+00001529_005.png,Pneumonia,5,1529,54,F,PA,2458,2529,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001529_005.png
+00016508_012.png,Consolidation|Pneumonia,12,16508,51,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016508_012.png
+00027093_002.png,Pneumothorax|Pneumonia,2,27093,30,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027093_002.png
+00005418_011.png,No Finding,11,5418,63,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005418_011.png
+00007444_003.png,Pneumonia,3,7444,39,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00007444_003.png
+00018926_001.png,Pneumonia,1,18926,50,F,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_009/images/00018926_001.png
+00003640_004.png,Pneumonia,4,3640,45,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003640_004.png
+00015968_000.png,Pneumonia,0,15968,36,F,PA,2730,2545,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015968_000.png
+00014174_008.png,No Finding,8,14174,52,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014174_008.png
+00022335_016.png,No Finding,16,22335,54,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_010/images/00022335_016.png
+00002360_002.png,Pneumonia,2,2360,33,F,PA,2048,2500,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_002/images/00002360_002.png
+00018237_028.png,Pneumonia,28,18237,30,F,PA,2986,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00018237_028.png
+00025612_008.png,No Finding,8,25612,34,M,PA,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00025612_008.png
+00005567_016.png,Emphysema|Pneumonia,16,5567,49,M,PA,2770,2557,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005567_016.png
+00006425_018.png,No Finding,18,6425,50,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_003/images/00006425_018.png
+00015605_017.png,No Finding,17,15605,32,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015605_017.png
+00011683_058.png,No Finding,58,11683,60,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00011683_058.png
+00022952_003.png,Pneumonia,3,22952,33,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00022952_003.png
+00011448_011.png,No Finding,11,11448,33,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00011448_011.png
+00027837_001.png,Mass|Nodule|Pneumonia|Pneumothorax,1,27837,50,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027837_001.png
+00000310_001.png,Pneumonia,1,310,60,M,AP,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000310_001.png
+00020945_020.png,Pneumonia,20,20945,34,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00020945_020.png
+00014203_047.png,No Finding,47,14203,31,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014203_047.png
+00002484_003.png,Cardiomegaly|Pneumonia,3,2484,45,F,AP,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_002/images/00002484_003.png
+00008763_001.png,Nodule|Pneumonia,1,8763,61,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00008763_001.png
+00005532_004.png,Cardiomegaly|Pneumonia,4,5532,38,F,PA,2604,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005532_004.png
+00026546_010.png,No Finding,10,26546,32,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_011/images/00026546_010.png
+00016291_015.png,Pneumonia,15,16291,53,M,PA,2598,2673,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016291_015.png
+00014234_000.png,Pneumonia,0,14234,42,F,PA,2490,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014234_000.png
+00027420_010.png,No Finding,10,27420,56,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00027420_010.png
+00014731_016.png,Emphysema|Mass|Pneumonia|Pneumothorax,16,14731,54,M,PA,2878,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014731_016.png
+00006519_007.png,No Finding,7,6519,58,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00006519_007.png
+00000772_002.png,Nodule|Pneumonia,2,772,45,F,PA,2802,2833,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000772_002.png
+00023138_009.png,Consolidation|Pneumonia,9,23138,40,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00023138_009.png
+00001455_000.png,Pleural_Thickening|Pneumonia,0,1455,53,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001455_000.png
+00019275_001.png,Pneumonia,1,19275,55,F,PA,1857,1797,0.19431099999999998,0.19431099999999998,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019275_001.png
+00010752_011.png,No Finding,11,10752,62,M,PA,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010752_011.png
+00009863_058.png,Pneumonia,58,9863,40,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00009863_058.png
+00015414_014.png,No Finding,14,15414,40,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015414_014.png
+00003510_008.png,Pneumonia,8,3510,38,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003510_008.png
+00003492_005.png,No Finding,5,3492,53,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003492_005.png
+00015018_003.png,Pneumonia,3,15018,39,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015018_003.png
+00009229_011.png,No Finding,11,9229,36,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00009229_011.png
+00012158_025.png,Pneumonia,25,12158,47,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012158_025.png
+00013993_046.png,Pneumonia,46,13993,42,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_007/images/00013993_046.png
+00029537_003.png,Consolidation|Pneumonia,3,29537,42,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_012/images/00029537_003.png
+00006043_011.png,No Finding,11,6043,53,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00006043_011.png
+00013031_026.png,No Finding,26,13031,54,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00013031_026.png
+00022965_004.png,Pneumonia,4,22965,54,F,PA,2544,3056,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00022965_004.png
+00008401_006.png,Pneumonia,6,8401,56,F,PA,2754,2757,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_004/images/00008401_006.png
+00021399_000.png,Pneumonia,0,21399,47,M,PA,2738,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021399_000.png
+00013594_015.png,No Finding,15,13594,46,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00013594_015.png
+00019707_017.png,Pneumonia,17,19707,58,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_009/images/00019707_017.png
+00004508_005.png,No Finding,5,4508,43,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004508_005.png
+00007735_018.png,Pneumonia,18,7735,31,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00007735_018.png
+00021818_025.png,Consolidation|Pneumonia,25,21818,37,M,PA,3056,2532,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021818_025.png
+00005895_012.png,No Finding,12,5895,53,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00005895_012.png
+00000261_002.png,Pneumonia,2,261,40,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000261_002.png
+00011973_015.png,Pneumonia,15,11973,62,M,PA,2822,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00011973_015.png
+00021016_000.png,Pneumonia,0,21016,44,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021016_000.png
+00029901_004.png,Consolidation|Nodule|Pneumonia,4,29901,48,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_012/images/00029901_004.png
+00022877_014.png,Pneumonia,14,22877,56,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_010/images/00022877_014.png
+00020037_016.png,No Finding,16,20037,46,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_009/images/00020037_016.png
+00015360_006.png,No Finding,6,15360,54,F,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015360_006.png
+00001933_000.png,Consolidation|Pneumonia,0,1933,40,F,PA,2570,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001933_000.png
+00021759_007.png,No Finding,7,21759,44,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_010/images/00021759_007.png
+00006966_004.png,Pneumonia,4,6966,47,M,PA,2988,2199,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_004/images/00006966_004.png
+00009486_002.png,Nodule|Pneumonia,2,9486,58,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00009486_002.png
+00025252_072.png,No Finding,72,25252,30,M,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00025252_072.png
+00004893_070.png,Pneumonia,70,4893,33,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00004893_070.png
+00001437_019.png,Pneumonia,19,1437,30,F,AP,3048,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001437_019.png
+00011945_011.png,Consolidation|Pneumonia,11,11945,33,F,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00011945_011.png
+00028433_009.png,No Finding,9,28433,55,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_012/images/00028433_009.png
+00012094_011.png,Pneumonia,11,12094,63,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012094_011.png
+00008347_005.png,No Finding,5,8347,42,F,PA,2048,2500,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008347_005.png
+00010505_018.png,Pneumonia,18,10505,46,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010505_018.png
+00008051_017.png,No Finding,17,8051,49,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008051_017.png
+00003254_008.png,No Finding,8,3254,49,F,PA,2502,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003254_008.png
+00006249_005.png,No Finding,5,6249,55,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00006249_005.png
+00012158_022.png,No Finding,22,12158,46,F,PA,2686,2645,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012158_022.png
+00027539_001.png,Pneumonia,1,27539,34,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00027539_001.png
+00008649_006.png,No Finding,6,8649,60,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008649_006.png
+00012472_007.png,No Finding,7,12472,58,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012472_007.png
+00001194_006.png,No Finding,6,1194,42,M,AP,2048,2500,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_001/images/00001194_006.png
+00015170_007.png,No Finding,7,15170,52,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015170_007.png
+00016472_008.png,No Finding,8,16472,58,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016472_008.png
+00013778_009.png,No Finding,9,13778,43,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00013778_009.png
+00017710_009.png,Consolidation|Pneumonia,9,17710,44,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017710_009.png
+00010544_029.png,Pneumonia,29,10544,33,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010544_029.png
+00002111_008.png,No Finding,8,2111,57,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00002111_008.png
+00014647_005.png,Pneumonia,5,14647,41,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00014647_005.png
+00012622_028.png,Mass|Pneumonia,28,12622,32,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012622_028.png
+00012935_016.png,No Finding,16,12935,55,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012935_016.png
+00004006_022.png,No Finding,22,4006,33,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004006_022.png
+00020405_030.png,Pneumonia,30,20405,49,M,AP,2788,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00020405_030.png
+00000499_008.png,Pneumonia,8,499,34,F,PA,2052,2271,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000499_008.png
+00009305_002.png,Pneumonia,2,9305,55,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00009305_002.png
+00007109_020.png,Fibrosis|Pneumonia,20,7109,38,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_004/images/00007109_020.png
+00000662_007.png,No Finding,7,662,53,F,PA,2992,2989,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_001/images/00000662_007.png
+00012834_085.png,Pneumonia,85,12834,33,M,AP,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012834_085.png
+00001984_008.png,No Finding,8,1984,62,M,PA,2942,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_002/images/00001984_008.png
+00016936_000.png,Pneumonia,0,16936,43,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016936_000.png
+00004808_058.png,No Finding,58,4808,35,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004808_058.png
+00010625_023.png,No Finding,23,10625,38,F,PA,2960,2252,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010625_023.png
+00021710_002.png,Pneumonia,2,21710,59,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021710_002.png
+00009863_024.png,No Finding,24,9863,40,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009863_024.png
+00005138_009.png,Pneumonia,9,5138,54,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005138_009.png
+00009798_006.png,No Finding,6,9798,34,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_005/images/00009798_006.png
+00018187_011.png,Consolidation|Pneumonia,11,18187,32,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00018187_011.png
+00013641_048.png,Pneumonia,48,13641,39,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013641_048.png
+00025290_027.png,No Finding,27,25290,45,F,AP,3056,2544,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_011/images/00025290_027.png
+00013304_002.png,Pneumonia,2,13304,44,F,PA,2590,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013304_002.png
+00012472_006.png,No Finding,6,12472,58,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_006/images/00012472_006.png
+00021627_007.png,Pneumonia,7,21627,43,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021627_007.png
+00010773_017.png,Pneumonia,17,10773,54,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_005/images/00010773_017.png
+00018721_007.png,Consolidation|Pneumonia,7,18721,42,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_009/images/00018721_007.png
+00013818_000.png,Pneumonia,0,13818,35,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00013818_000.png
+00003426_016.png,No Finding,16,3426,60,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003426_016.png
+00005673_003.png,Pneumonia,3,5673,41,M,PA,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005673_003.png
+00010352_023.png,No Finding,23,10352,31,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00010352_023.png
+00014436_011.png,No Finding,11,14436,63,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014436_011.png
+00003426_007.png,No Finding,7,3426,58,M,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003426_007.png
+00003211_000.png,Pneumonia,0,3211,39,F,PA,2468,2762,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00003211_000.png
+00013592_019.png,No Finding,19,13592,61,M,PA,2758,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00013592_019.png
+00028457_010.png,Pneumonia,10,28457,36,F,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_012/images/00028457_010.png
+00011789_005.png,No Finding,5,11789,56,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_006/images/00011789_005.png
+00006717_007.png,Pneumonia,7,6717,58,F,PA,2048,2500,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00006717_007.png
+00000218_001.png,Pneumonia,1,218,33,M,PA,2048,2500,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_001/images/00000218_001.png
+00015911_011.png,No Finding,11,15911,61,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00015911_011.png
+00011167_007.png,No Finding,7,11167,53,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_005/images/00011167_007.png
+00008470_008.png,Pneumonia,8,8470,30,F,AP,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_004/images/00008470_008.png
+00007007_016.png,Consolidation|Pneumonia,16,7007,45,F,AP,2500,2048,0.171,0.171,1,/home/danielchan/Chest_Xray_Data/images_004/images/00007007_016.png
+00015273_000.png,Pneumonia,0,15273,50,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_007/images/00015273_000.png
+00018360_038.png,No Finding,38,18360,62,M,AP,3016,2528,0.139,0.139,0,/home/danielchan/Chest_Xray_Data/images_008/images/00018360_038.png
+00016972_005.png,Pneumonia,5,16972,43,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_008/images/00016972_005.png
+00008522_024.png,No Finding,24,8522,61,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008522_024.png
+00006260_001.png,Pneumonia,1,6260,62,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00006260_001.png
+00017231_001.png,Pneumonia,1,17231,63,F,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_008/images/00017231_001.png
+00014715_009.png,No Finding,9,14715,39,F,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_007/images/00014715_009.png
+00020945_021.png,Pneumonia,21,20945,34,M,AP,3056,2544,0.139,0.139,1,/home/danielchan/Chest_Xray_Data/images_009/images/00020945_021.png
+00018464_027.png,Pneumonia,27,18464,58,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_009/images/00018464_027.png
+00012158_021.png,Pneumonia,21,12158,45,F,PA,2270,2989,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00012158_021.png
+00008341_009.png,No Finding,9,8341,33,F,PA,2048,2500,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008341_009.png
+00009229_003.png,Pneumonia,3,9229,36,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_004/images/00009229_003.png
+00005274_011.png,Pneumonia,11,5274,40,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005274_011.png
+00005567_017.png,Pneumonia,17,5567,50,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_003/images/00005567_017.png
+00003528_055.png,No Finding,55,3528,46,M,AP,2500,2048,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003528_055.png
+00016293_008.png,No Finding,8,16293,42,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_008/images/00016293_008.png
+00003459_006.png,No Finding,6,3459,52,F,AP,2500,2048,0.171,0.171,0,/home/danielchan/Chest_Xray_Data/images_002/images/00003459_006.png
+00001837_002.png,Pneumonia,2,1837,44,M,PA,2658,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_002/images/00001837_002.png
+00013052_011.png,Pneumonia|Pneumothorax,11,13052,41,F,PA,2738,2549,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_006/images/00013052_011.png
+00004598_009.png,No Finding,9,4598,39,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_003/images/00004598_009.png
+00026112_001.png,Pneumonia,1,26112,56,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,1,/home/danielchan/Chest_Xray_Data/images_011/images/00026112_001.png
+00024279_005.png,No Finding,5,24279,50,M,PA,2992,2991,0.14300000000000002,0.14300000000000002,0,/home/danielchan/Chest_Xray_Data/images_010/images/00024279_005.png
+00001247_011.png,Pneumonia,11,1247,44,M,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_001/images/00001247_011.png
+00021284_000.png,Nodule|Pneumonia,0,21284,50,F,AP,2500,2048,0.168,0.168,1,/home/danielchan/Chest_Xray_Data/images_010/images/00021284_000.png
+00028644_007.png,No Finding,7,28644,39,M,PA,2021,2021,0.19431099999999998,0.19431099999999998,0,/home/danielchan/Chest_Xray_Data/images_012/images/00028644_007.png
+00008473_007.png,No Finding,7,8473,45,M,PA,2048,2500,0.168,0.168,0,/home/danielchan/Chest_Xray_Data/images_004/images/00008473_007.png
